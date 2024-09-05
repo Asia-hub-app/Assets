@@ -1,0 +1,264 @@
+name: assets
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^4.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+   - assets/RENOVATION/bathrooms/4fccdb32-8e89-463d-818f-b7362f25bf53.jpg
+   - assets/RENOVATION/bathrooms/5f1ac5e5-e588-41eb-bd15-b1af856c0bd0.jpg
+   - assets/RENOVATION/bathrooms/9 Shower Tile Ideas to Inspire Your Bathroom Renovation.jpg
+   - assets/RENOVATION/bathrooms/20 Genius Small Master Bath Ideas to Transform Your Space.jpg
+   - assets/RENOVATION/bathrooms/20 Space-Saving Master Bath Ideas to Copy Now.jpg
+   - assets/RENOVATION/bathrooms/50 Incredible Before & After Pics of Bathroom Makeovers - Hey, How to do it_.jpg
+   - assets/RENOVATION/bathrooms/50 Small Bathroom & Shower Room Ideas for 2023.jpg
+   - assets/RENOVATION/bathrooms/50 Times People Tried To Renovate Their Home And Really Outdid Themselves.jpg
+   - assets/RENOVATION/bathrooms/66d1bdd1-e97f-44cd-bdc6-5d2530e07349.jpg
+   - assets/RENOVATION/bathrooms/108a6fe0-e528-4c55-b197-75cf27d4c711.jpg
+   - assets/RENOVATION/bathrooms/7201e0e0-8dea-4760-b7b2-0e028e23fb26.jpg
+   - assets/RENOVATION/bathrooms/181312430.pdf
+   - assets/RENOVATION/bathrooms/android-studio-2024.1.1.12-windows.exe
+   - assets/RENOVATION/bathrooms/android-studio-2024.1.1.12-windows.exe
+   - assets/RENOVATION/bathrooms/b3b1df8e-e23e-44b9-ac88-b1fd1408cf58.jpg
+   - assets/RENOVATION/bathrooms/b62b134f-d853-4313-9997-73a68f3cb0ba.jpg
+   - assets/RENOVATION/bathrooms/Bathroom design - Bathroom decoration Ideas - bathroom wallpaper.jpg
+   - assets/RENOVATION/bathrooms/bathroom designing ideas.jpg
+   - assets/RENOVATION/bathrooms/Bathroom ideas - Bathroom decoration Ideas - bathroom interior (2).jpg
+   - assets/RENOVATION/bathrooms/Bathroom Measurements and size standards.jpg
+   - assets/RENOVATION/bathrooms/BATHROOM RENOVATION - PART 1 - INSPO & MOOD BOARD.jpg
+   - assets/RENOVATION/bathrooms/Bathroom worktop in Alpine White.jpg
+   - assets/RENOVATION/bathrooms/bf2620be-7799-40ea-a705-e6adeb921d3e.jpg
+   - assets/RENOVATION/bathrooms/Cómo ahorrar espacio en baños diminutos.jpg
+   - assets/RENOVATION/bathrooms/download.jpeg
+   - assets/RENOVATION/bathrooms/DreamLine SHDR-1960580R-04 Mirage-X 56 - 60_W x 58_ Tub Door in Nickel; Right, 56-60_ W x 58_ H - Contemporary - Tub And Shower Parts - by Kolibri Decor _ Houzz.jpg
+   - assets/RENOVATION/bathrooms/Inspire your Dream Bathroom Design with Infinity Drain.jpg
+   - assets/RENOVATION/bathrooms/Master Bath before and after.jpg
+   - assets/RENOVATION/bathrooms/Master Bathroom in Baltimore - Modern - Bathroom - Baltimore - by Maryland Home Pros _ Houzz.jpg
+   - assets/RENOVATION/bathrooms/Simple Minimalist Bathroom Clean and Functional Bathroom Design Ideas for a Minimalist Look.jpg
+   - assets/RENOVATION/bathrooms/Small Bathroom Remodeling Projects - Before and After.jpg
+   - assets/RENOVATION/bathrooms/Small Bathroom Remodeling Projects - Before and After (1).jpg
+   - assets/RENOVATION/bathrooms/Strikingly Tasteful Master Bath Remodel _ Sebring Design Build _ Bathroom Remodel Master.jpg
+   - assets/RENOVATION/bathrooms/Tiny Bathroom, Big Changes_ 25 Budget Friendly Remodels with Before and After Pics.jpg
+
+  #BEDROOMS IMAGES
+   -  assets/RENOVATION/BEDROOMS/6 Useful Layouts for a More Comfortable Home.jpg
+   - assets/RENOVATION/BEDROOMS/30 Ultimate Before and After Bedroom Makeovers That Deliver Stunning Results.jpg
+   - assets/RENOVATION/BEDROOMS/30 Ultimate Before and After Bedroom Makeovers That Deliver Stunning Results (1).jpg
+   - assets/RENOVATION/BEDROOMS/30 Ultimate Before and After Bedroom Makeovers That Deliver Stunning Results (2).jpg
+   - assets/RENOVATION/BEDROOMS/30 Ultimate Before and After Bedroom Makeovers That Deliver Stunning Results (3).jpg
+   - assets/RENOVATION/BEDROOMS/30 Ultimate Before and After Bedroom Makeovers That Deliver Stunning Results (4).jpg
+   - assets/RENOVATION/BEDROOMS/30 Ultimate Before and After Bedroom Makeovers That Deliver Stunning Results (5).jpg
+   - assets/RENOVATION/BEDROOMS/30 Ultimate Before and After Bedroom Makeovers That Deliver Stunning Results (6).jpg
+   - assets/RENOVATION/BEDROOMS/30 Ultimate Before and After Bedroom Makeovers That Deliver Stunning Results (7).jpg
+   - assets/RENOVATION/BEDROOMS/39 Modern Bedroom Designs_ Where Comfort Meets Sleek Style.jpg
+   - assets/RENOVATION/BEDROOMS/ANTES x PROJETO • Que linda proposta para….jpg
+   - assets/RENOVATION/BEDROOMS/bcdb5880-2363-4abf-aca0-2379ff39fe14.jpg
+   - assets/RENOVATION/BEDROOMS/Bedroom before and After.jpg
+   - assets/RENOVATION/BEDROOMS/Bedroom before and After (1).jpg
+   - assets/RENOVATION/BEDROOMS/Bedroom before and After (2).jpg
+   - assets/RENOVATION/BEDROOMS/Bedroom Decor_ All o.jpg
+   - assets/RENOVATION/BEDROOMS/Bedroom Inspo _ White Minimalist Modern Bedroom.jpg
+   - assets/RENOVATION/BEDROOMS/Bedroom Layout Ideas (Design Pictures).jpg
+   - assets/RENOVATION/BEDROOMS/Bedroom Makeover_ From Cluttered to Chic Minimalist Retreat.jpg
+   - assets/RENOVATION/BEDROOMS/Before and After_ Modern Cozy Bedroom Transformations You May Need In Your Home.jpg
+   - assets/RENOVATION/BEDROOMS/Breathtaking Bedroom Makeover_ From Cluttered to Calm _ Modern Minimalist Design Ideas.jpg
+   - assets/RENOVATION/BEDROOMS/Budget Mobile Home Bedroom Renovation Before and After Photos.jpg
+   - assets/RENOVATION/BEDROOMS/Designing My Dream Bedroom with InteriorCrowd.jpg
+   - assets/RENOVATION/BEDROOMS/DIY Bedroom Makeover Projects.jpg
+   - assets/RENOVATION/BEDROOMS/DIY IKEA Bed Storage Solutions_ Creative and Budget-Friendly Idea.jpg
+   - assets/RENOVATION/BEDROOMS/download.jpg
+   - assets/RENOVATION/BEDROOMS/download (1).jpg
+   - assets/RENOVATION/BEDROOMS/Dramatic Bedroom Makeover_ Clutter to Calm _ Modern Sanctuary Transformation.jpg
+   - assets/RENOVATION/BEDROOMS/Dramatic Bedroom Makeover_ Clutter to Calm _ Modern Sanctuary Transformation (1).jpg
+   - assets/RENOVATION/BEDROOMS/Dramatic Bedroom Transformation_ Cluttered to Chic _ Modern Minimalist Makeover.jpg
+   - assets/RENOVATION/BEDROOMS/f492d198-6c00-4965-b65b-aba453ec8b34.jpg
+   - assets/RENOVATION/BEDROOMS/home bedroom refresh before and after look.jpg
+   - assets/RENOVATION/BEDROOMS/JRL Interiors — An Antique Farmhouse Bedroom Gets a Makeover.jpg
+   - assets/RENOVATION/BEDROOMS/JRL Interiors — An Antique Farmhouse Bedroom Gets a Makeover (3).jpg
+   - assets/RENOVATION/BEDROOMS/Luxe Bedroom Oasis_ High Ceilings & Contemporary Elegance _ Serene Sleep Sanctuary.jpg
+   - assets/RENOVATION/BEDROOMS/Luxe Minimalist Suite_ Modern Bedroom Oasis _ Sleep, Work & Relax in Style.jpg
+   - assets/RENOVATION/BEDROOMS/Master Bedroom Makeover.jpg
+   - assets/RENOVATION/BEDROOMS/Master Bedroom Makeover (1).jpg
+   - assets/RENOVATION/BEDROOMS/Master Bedroom Refresh_ Create a Luxurious Retreat.jpg
+   - assets/RENOVATION/BEDROOMS/Master Bedroom Refresh_ Create a Luxurious Retreat (1).jpg
+   - assets/RENOVATION/BEDROOMS/Modern Bedroom Makeover Inspirations.jpg
+   - assets/RENOVATION/BEDROOMS/Modern Minimalist Bedroom.jpg
+   - assets/RENOVATION/BEDROOMS/Pillow Sizing Guide _ Construction2style.jpg
+   - assets/RENOVATION/BEDROOMS/Rectangular up and down Lighting LED Creative Modern Wall Lights Fixture Sconces Lighting Wall Lamp for Bedside Hallway, 1-Light _ White _ White.jpg
+   - assets/RENOVATION/BEDROOMS/Relaxation Corner Design Ideas for the Master Bedroom.jpg
+   - assets/RENOVATION/BEDROOMS/Sleep Tight in a Decluttered Haven_ Minimalist Bedroom Organization.jpg
+   - assets/RENOVATION/BEDROOMS/Transform Your Bedroom_ Declutter & Organize Tips.jpg
+   - assets/RENOVATION/BEDROOMS/Wardrobe and Mirror design ideas for the master bedroom.jpg
+   - assets/RENOVATION/BEDROOMS/Wardrobe and Mirror design ideas for the master bedroom (1).jpg
+    # KITCHEN IMAGES
+   - assets/RENOVATION/kitchen/0b5441bb-c6b8-465e-b4da-f8357a78f6c2.jpg
+   - assets/RENOVATION/kitchen/7f68fdbb-bf28-4152-8a02-437df6f969c5.jpg
+   - assets/RENOVATION/kitchen/27 Inspiring Kitchen Makeovers- Before and After - Nesting With Grace.jpg
+   - assets/RENOVATION/kitchen/16 Small Kitchen Remodels That Will Blow Your Mind_ Before & After Pics.jpg
+   - assets/RENOVATION/kitchen/40c3ae32-5087-4f8b-b75d-77f6926ce807.jpg
+   - assets/RENOVATION/kitchen/53f4a8b5-27b3-46a0-a0bd-3b08807a7e0f.jpg
+   - assets/RENOVATION/kitchen/72f117da-7a48-4528-8716-b2d1e0f5097a.jpg
+   - assets/RENOVATION/kitchen/81508e6f-8c99-45dc-95e2-3071fbecf742.jpg
+   - assets/RENOVATION/kitchen/245555f8-a3f0-429d-9419-f402a523affb.jpg
+   - assets/RENOVATION/kitchen/- YouTube.jpg
+   - assets/RENOVATION/kitchen/- YouTube (1).jpg
+   - assets/RENOVATION/kitchen/Awesome Kitchen Organization Hacks ideas - Kitchen Remodel Tips - kitchen ideas.jpg
+   - assets/RENOVATION/kitchen/Before and After, Ice White Shaker Cabinets.jpg
+   - assets/RENOVATION/kitchen/Before and After_ 10 Stunning Kitchen Transformations! - Beneath My Heart.jpg
+   - assets/RENOVATION/kitchen/DIY Cabinet Update.jpg
+   - assets/RENOVATION/kitchen/DIY Projects and Ideas.jpg
+   - assets/RENOVATION/kitchen/e3140017-6c3d-44fa-a938-9c92ef69f856.jpg
+   - assets/RENOVATION/kitchen/How to Begin Free Kitchen Cabinet Design Online _ NuformCabinetry.jpg
+   - assets/RENOVATION/kitchen/Interior Design and Renovation Company Madison WI _ DC Interior.jpg
+   - assets/RENOVATION/kitchen/kitchen before and after.jpg
+   - assets/RENOVATION/kitchen/kitchen before and after (1).jpg
+   - assets/RENOVATION/kitchen/Kitchen layout.jpgassets/RENOVATION/kitchen/Kitchen Makeover Tips - Easy Kitchen Storage Hacks ideas and tips.jpg
+   - assets/RENOVATION/kitchen/Kitchen Organization Hacks _ Kitchen Organization Ideas You’d Never Think Of - The Shop By Jasmine Roth.jpg
+   - assets/RENOVATION/kitchen/The Connector House _ the restoring house (1).jpg
+   - assets/RENOVATION/kitchen/These Before & After Pictures will Inspire You to Update Your Home.jpg
+   - assets/RENOVATION/kitchen/Updating a Brown Kitchen - Evolution of Style.jpg
+   # OUTLOOKS
+   - assets/RENOVATION/outlooks/1af7a1a3-05b5-40ef-aef2-866e27d376ca.jpg
+   - assets/RENOVATION/outlooks/2de41b61-1748-4cc0-965a-495edfb0a35a.jpg
+   - assets/RENOVATION/outlooks/4 Favorite Siding Colors by James Hardie _ Blog _ brick&batten.jpg
+   - assets/RENOVATION/outlooks/5 GREAT WAYS TO TRANSFORM YOUR EXTERIOR ON A BUDGET — THREE BIRDS RENOVATIONS.jpg
+   - assets/RENOVATION/outlooks/6bc4342b-41f8-4dcd-b07d-70e9a36188a7.jpg
+   - assets/RENOVATION/outlooks/7bd55559-d4aa-41e8-a20b-0bb913492d68.jpg
+   - assets/RENOVATION/outlooks/8 Modern Cape Cod House Updates _ brick&batten.jpg
+   - assets/RENOVATION/outlooks/10a43618-cdee-4457-9487-90e7a1646bba.jpg
+   - assets/RENOVATION/outlooks/12 Amazingly Wonderful Exterior Home Makeovers.jpg
+   - assets/RENOVATION/outlooks/12 Best Exterior Window Shutter Colors _ brick&batten.jpg
+   - assets/RENOVATION/outlooks/12 Front Porch Addition Ideas _ brick&batten.jpg
+   - assets/RENOVATION/outlooks/12 Garage Door Makeovers _ Garage Door Ideas & Photos.jpg
+   - assets/RENOVATION/outlooks/15 Contemporary House Designs with Before & Afters _ brick&batten.jpg
+   - assets/RENOVATION/outlooks/18 Front Door Ideas That Will Make Your Home Stand Out in 2021.jpg
+   - assets/RENOVATION/outlooks/18 Predictions for 2020 Exterior Home Design _ Blog _ brick&batten.jpg
+   - assets/RENOVATION/outlooks/20 Home Exterior Makeover Before and After Ideas _ Home Stories A to Z.jpg
+   - assets/RENOVATION/outlooks/20 Home Exterior Makeover Before and After Ideas _ Home Stories A to Z (1).jpg
+   - assets/RENOVATION/outlooks/21 Painted Houses to Inspire You in 2021.jpg
+   - assets/RENOVATION/outlooks/25 Front Porch Decorating Ideas to Make Your Entry More Inviting.jpg
+   - assets/RENOVATION/outlooks/34+ Inspirational Before And After House Renovation Projects.jpg
+   - assets/RENOVATION/outlooks/34 Incredible Before-and-After Exterior Home Remodels.jpg
+   - assets/RENOVATION/outlooks/34c7ab30-f25d-4c44-a23e-f0bc70a29063.jpg
+   - assets/RENOVATION/outlooks/50 Before-and-After Backyard Makeovers - Hey, How to do it_.jpg
+   - assets/RENOVATION/outlooks/65 Wow-Worthy Home Makeovers.jpg
+   - assets/RENOVATION/outlooks/727cf596-d575-4b93-9061-8cc37b98001a.jpg
+   - assets/RENOVATION/outlooks/935cdcd7-5055-4236-83df-d6c3266f04a4.jpg
+   - assets/RENOVATION/outlooks/4206d169-5fbf-4a3e-8cab-514e4e30b0e4.jpg
+   - assets/RENOVATION/outlooks/15555973-5c02-4129-affa-87e10d7d2902.jpg
+   - assets/RENOVATION/outlooks/Amazing Exterior Home Transformations Start with Windows and Doors.jpg
+   - assets/RENOVATION/outlooks/Before&After Design on Instagram_ “SWIPE ➡️➡️….jpg
+   - assets/RENOVATION/outlooks/Before & After_ Exterior Paint & Covered Porch Transform Home.jpg
+   - assets/RENOVATION/outlooks/Before and After.jpg
+   - assets/RENOVATION/outlooks/Before and After _Home Renovation.jpg
+   - assets/RENOVATION/outlooks/Before and After_ 4 Top Tips To Give Your Home a Face Lift _ L'Essenziale.jpg
+   - assets/RENOVATION/outlooks/Before-After-Design-Makeovers.jpg
+   - assets/RENOVATION/outlooks/c77e5a19-ca84-43d7-8c66-4eedf9cab464.jpg
+   - assets/RENOVATION/outlooks/Can A Raised Ranch Home Become A Traditional Home_.jpg
+   - assets/RENOVATION/outlooks/Craftsman versus Ranch Remodel Decisions.jpg
+   - assets/RENOVATION/outlooks/DIY Cedar Window Planters - Shades of Blue Interiors.jpg
+   - assets/RENOVATION/outlooks/download.jpg
+   - assets/RENOVATION/outlooks/Extension & Exterior Remodel.jpg
+   - assets/RENOVATION/outlooks/Exterior Paint Trends For 2018.jpg
+   - assets/RENOVATION/outlooks/fd0ad3ea-9abf-423b-909d-96cafb52aa25.jpg
+   - assets/RENOVATION/outlooks/front of house renovation ideas uk.jpg
+   - assets/RENOVATION/outlooks/How to renovate for profit in 3 weeks.jpg
+   - assets/RENOVATION/outlooks/Modern Navy and Cedar Ranch Style Remodel.jpg
+   - assets/RENOVATION/outlooks/Online Home Exterior Design Services _ brick&batten.jpg
+   - assets/RENOVATION/outlooks/Our Home Remodel _ Home Renovation Tips.jpg
+   - assets/RENOVATION/outlooks/Our Last House - Seeking Lavender Lane.jpg
+   - assets/RENOVATION/outlooks/Our Modest Starter Home Might Be Our Forever Home_.jpg
+   - assets/RENOVATION/outlooks/Our Modest Starter Home Might Be Our Forever Home_.jpg
+   - assets/RENOVATION/outlooks/Painted Brick Houses.jpg
+   - assets/RENOVATION/outlooks/Porticos Gallery - GFP.jpg
+   - assets/RENOVATION/outlooks/Proposed Exterior Renovation.jpg
+   - assets/RENOVATION/outlooks/Ranch Homes Before & After Makeover _ Blog _ brick&batten.jpg
+   - assets/RENOVATION/outlooks/Rebirth_ Our 1960s Ranch House Renovation _ Transforming the Front Elevation - Redeem Your Ground.jpg
+   - assets/RENOVATION/outlooks/Remodelled, rewired and rejuvenated - Turner and Hoskins Architects.jpg
+   - assets/RENOVATION/outlooks/Split Entry Stock Home Plans _ KDK Design Store.jpg
+
+
+
+  #   - images/a_dot_ham.jpeg
+
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/to/resolution-aware-images
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/to/asset-from-package
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/to/font-from-package
